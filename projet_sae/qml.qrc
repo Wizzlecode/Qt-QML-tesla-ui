@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/cadenas_f.png</file>
+        <file>assets/candenas_o.png</file>
+        <file>assets/car_ico.jpg</file>
+        <file>assets/car.png</file>
+        <file>assets/fan.png</file>
+        <file>assets/left_seat.png</file>
+        <file>assets/right_seat.png</file>
+        <file>assets/Montserrat-Medium.ttf</file>
+        <file>assets/Montserrat-Regular.ttf</file>
+        <file>assets/battery.png</file>
+        <file>assets/Kanye_West_POWER.mp3</file>
+        <file>assets/mbdtf.jpg</file>
+        <file>assets/music.png</file>
+        <file>assets/gear.png</file>
+        <file>assets/left_empty.png</file>
+        <file>assets/left_full.png</file>
+        <file>assets/right_empty.png</file>
+        <file>assets/right_full.png</file>
+        <file>assets/handbrake_false.png</file>
+        <file>assets/handbrake_true.png</file>
+        <file>assets/heat_false.png</file>
+        <file>assets/heat_true.png</file>
+        <file>assets/light_false.png</file>
+        <file>assets/light_true.png</file>
+        <file>assets/windshield_false.png</file>
+        <file>assets/windshield_true.png</file>
+        <file>assets/scene.bin</file>
+        <file>assets/scene.gltf</file>
+    </qresource>
+</RCC>
